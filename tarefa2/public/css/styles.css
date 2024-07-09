@@ -1,0 +1,47 @@
+body,
+p {
+  margin: 0;
+}
+
+.header {
+  font-size: 1.5rem;
+  background-color: #e07714;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.links {
+  color: #fff;
+}
+
+.logo {
+  height: 80px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu a {
+  margin: 8px;
+}
+
+.content {
+  font-size: 1.2rem;
+  padding: 1rem;
+}
+
+.footer {
+  background-color: black;
+  padding: 30px 0;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.footer p {
+  color: #fff;
+  text-align: center;
+}
+
